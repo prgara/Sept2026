@@ -37,4 +37,14 @@ interface ----- interface ------ extends
 inheritance vs composition
 
 
+=============================================================
+
+Exception --- which breaks the normal flow of the execution of program.
+
+exception handling --- it is process of handling the exceptions gracefully to maintain the flow of the code.
+
+Error --- it is irreversible condition like power outage, memory error.
+
+
+
 
